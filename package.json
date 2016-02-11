@@ -1,0 +1,49 @@
+{
+  "name": "babel-preset-resultsdm",
+  "version": "1.0.0",
+  "description": "Results Driven Marketing's Babel preset for transforming JavaScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/resultsdm/babel-preset-resultsdm"
+  },
+  "keywords": [
+    "babel",
+    "es6",
+    "es2015",
+    "javascript",
+    "rdm",
+    "resultsdm",
+    "results driven marketing"
+  ],
+  "author": "James Reimer <jamesr@resultsdm.com> (https://twitter.com/@JamesReimerRDM)",
+  "contributors": [
+    {
+      "name": "James Reimer",
+      "email": "jamesr@resultsdm.com",
+      "url": "https://twitter.com/@JamesReimerRDM"
+    },
+    {
+      "name": "Nicholas Coates",
+      "email": "nickc@resultsdm.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resultsdm/babel-preset-resultsdm/issues"
+  },
+  "homepage": "https://github.com/resultsdm/babel-preset-resultsdm",
+  "dependencies": {
+    "babel-plugin-transform-es2015-template-literals": "^6.5.0",
+    "babel-plugin-transform-es3-member-expression-literals": "^6.5.0",
+    "babel-plugin-transform-es3-property-literals": "^6.5.0",
+    "babel-plugin-transform-jscript": "^6.5.0",
+    "babel-plugin-transform-exponentiation-operator": "^6.5.0",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-resultsdm": "^2.0.0"
+  }
+}
