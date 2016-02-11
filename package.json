@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-resultsdm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Results Driven Marketing's Babel preset for transforming JavaScript",
   "main": "index.js",
   "repository": {
